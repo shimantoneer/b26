@@ -1,4 +1,4 @@
 <?php
-header("Location: https://caronchiro.com/north-oaks-conditions/low-back-pain/");
+header("Location: https://overheaddooroflincoln.com/");
 die();
 ?>
